@@ -1,0 +1,110 @@
+theatre application execution output
+-----------------------------------------------
+
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 
+1
+There are three types of seats in the theatre
+1.)Diamond
+2.)Gold
+3.)Silver
+Price of Diamond seats: 250/-
+Price of Gold seats: 150/-
+Price of Silver seats: 100/-
+Select the type of seat ( 1 for Diamond, 2 for Gold, 3 for Silver, 4 to return to main menu ): 
+1
+Number of seats available in Diamond: 80
+Enter number of tickects: 
+2
+Total amount = 500
+
+Enter amount received: 500
+Change to be returned: 0
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 
+1
+There are three types of seats in the theatre
+1.)Diamond
+2.)Gold
+3.)Silver
+Price of Diamond seats: 250/-
+Price of Gold seats: 150/-
+Price of Silver seats: 100/-
+Select the type of seat ( 1 for Diamond, 2 for Gold, 3 for Silver, 4 to return to main menu ): 
+2
+Number of seats available in Gold: 150
+Enter number of tickects: 
+3
+Total amount = 450
+
+Enter amount received: 500
+Change to be returned: 50
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 
+1
+There are three types of seats in the theatre
+1.)Diamond
+2.)Gold
+3.)Silver
+Price of Diamond seats: 250/-
+Price of Gold seats: 150/-
+Price of Silver seats: 100/-
+Select the type of seat ( 1 for Diamond, 2 for Gold, 3 for Silver, 4 to return to main menu ): 
+3
+Number of seats available in Silver: 150
+Enter number of tickects: 
+5
+Total amount = 500
+
+Enter amount received: 500
+Change to be returned: 0
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 
+2
+Number of seats available in Diamond: 78
+Number of seats available in Gold: 147
+Number of seats available in Silver: 145
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 
+3
+Sha theatre bookings
+Number of Diamonds saled: 2
+Number of Golds saled: 3
+Number of Silver saled: 5
+Collection of Diamonds: 500
+Collection of Golds: 450
+Collection of Silvers: 500
+Total collection of the show: 1450
+Tickets are available
+
+Welcome to online ticket booking of Sha theatre 
+1.)Bookings
+2.)Status
+3.)Report
+4.)Exit
+Choose an option (Enter the option number): 

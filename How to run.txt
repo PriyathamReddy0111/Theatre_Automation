@@ -1,0 +1,6 @@
+This project has been executed using online c compiler 
+URL: https://www.onlinegdb.com/
+
+Download the project from github 
+Open theatre_automation.c in online C compiler website
+Run it 
